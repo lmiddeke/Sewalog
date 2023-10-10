@@ -1,20 +1,2 @@
-# Install
+A fully functioning MVC app using Node.js, Express.js, MongoDB, EJS, Cloudinary, and CSS, for sewing enthusisits to share, look-up and house their favourite sewing patterns.
 
-`npm install`
-
----
-
-# Things to add
-
-- Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
-
----
-
-# Run
-
-`npm start`
